@@ -47,6 +47,10 @@ Provide station navigation options before passenger arrives.
 # Railway Station Smart Navigation System Overview
 ![21](https://github.com/user-attachments/assets/00c2bcba-1f73-45a9-8a79-91a5e39727ad)
 
+# USECASE DIAGRAM:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1fef80f0-ec25-4539-847d-63d1893da685" />
+
+<img width="526" height="471" alt="image" src="https://github.com/user-attachments/assets/fe152f4e-e2e1-4e48-9a2f-e595cd464169" />
 
 # Key Features
 
